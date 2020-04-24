@@ -1,7 +1,11 @@
  mkdir myApp
+ 
  cd myApp
+ 
  python3 -m venv venv
+ 
 . venv/bin/activate
+
  pip install Flask
 
 (venv) Whoami:~/myApp$ pip install -U https://github.com/pallets/flask/archive/master.tar.gz
