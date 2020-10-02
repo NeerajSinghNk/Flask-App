@@ -17,6 +17,7 @@
 
 
 (venv) Whoami:~/myApp$ pip install passlib
+changed
 
 (venv) Whoami:~/myApp$ pip install flask flask-login flask-wtf flask-sqlalchemy
 
